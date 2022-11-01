@@ -1,1 +1,5 @@
-# R-ussirSonSpitch
+# RéussirSonSpitch
+
+####Durant mes divers expériences dans le domaine de la Paie et mon dernier poste occupé en qualité d'Adjointe Directrice Paie, j'ai su monter en compétence, faire preuve d'adaptabilité et de sang froid sous la pression. Mes divers expériences m'ont permis de voir plusieurs outils de paie, me permettant ainsi de m'intéresser au paramétrage et au côté développement de ces outils.
+Ceci a aiguisé ma curiosité pour le développement informatique et plus particulièrement le développement web, le test d'entrée à la Wild Code School a confirmé mon choix car j'ai beaucoup aimé coder et voir le résultat de ma création. Je me suis toujours donnée les moyens de maîtriser l'ensemble des aspects du domaine dans lequel j'exerce mon emploi, c'est pour cela que je souhaite devenir Développeuse Full Stack avec une spécialisation en PHP Symfony.
+Je suis impliquée et motivée quand j'intègre un poste. J'ai su faire preuve d'adaptabilité par le passé et souhaite mettre ses qualités ainsi que mon apprentissage au sein de la Wilde Code School au service de votre entreprise afin de devenir un maillon de l'équipe de développeur.
